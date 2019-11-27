@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="UserValidation.xsl"?>
+<users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="UserValidation.xsd">
+  <!-- All payload data belongs here -->
+  <user>
+    <firstname>Ekta Choudhary</firstname>
+    <lastname>choudhea</lastname>
+    <bearcatid>M13440160</bearcatid>
+    <favoriteshortcut>ALT + TAB</favoriteshortcut>
+  </user>
+  <user>
+    <firstname>Bhawna Saini</firstname>
+    <lastname>sainiba</lastname>
+    <bearcatid>M12388678</bearcatid>
+    <favoriteshortcut>Ctrl + V</favoriteshortcut>
+  </user>
+  <user>
+    <firstname>Parth Shrey</firstname>
+    <lastname>shreypa</lastname>
+    <bearcatid>M98763456</bearcatid>
+    <favoriteshortcut>CTRL + C</favoriteshortcut>
+  </user>
+</users>

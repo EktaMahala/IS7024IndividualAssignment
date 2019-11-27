@@ -1,0 +1,31 @@
+﻿body {
+    background-color: #4FFFE8;
+}
+
+#topnav {
+    background-color: powderblue;
+    margin-top: 0;
+    position: fixed;
+    vertical-align: top;
+    left: 0;
+    top: 0;
+    height: 6em;
+    width: 100%;
+    z-index: 100;
+}
+
+
+#content {
+    position: relative;
+    margin-top: 5em;
+}
+
+#StudentProfile ul li {
+    font-family: "Trebuchet MS", "Lucida Console", "Times New Roman", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+@media only screen and (max-device-width: 480) {
+    .nomobile {
+        display: none;
+    }
+}
